@@ -1,0 +1,35 @@
+
+
+# FastAPI + Multipart support
+fastapi
+uvicorn
+python-multipart
+
+# NLP / Transformers
+torch
+transformers
+sentence-transformers
+regex
+
+# Whisper (Video → Audio → Text)
+openai-whisper
+ffmpeg-python
+
+
+# Image Processing
+opencv-python
+Pillow
+
+
+# OCR
+pytesseract
+
+# Web Scraping / Requests
+requests
+beautifulsoup4
+
+
+# Utilities
+joblib
+
+
